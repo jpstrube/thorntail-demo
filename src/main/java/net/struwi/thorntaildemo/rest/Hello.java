@@ -1,4 +1,4 @@
-package net.struwi.throntaildemo.rest;
+package net.struwi.thorntaildemo.rest;
 
 import javax.ws.rs.Path;
 import javax.ws.rs.core.Response;
